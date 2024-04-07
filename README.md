@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [GenUp Nexus](https://github.com/Saherpathan/GenUp_Nexus)
 
-- 🌱 I’m currently learning **Data Analysis, MLOps**
+- 🌱 I’m currently learning **Data Analysis, MLOps, Prompt Engineering**
 
 - 📫 How to reach me **sahergpathan@gmail.com**
 
