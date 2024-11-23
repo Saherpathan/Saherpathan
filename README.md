@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/saher_pathan" target="blank"><img src="https://img.shields.io/twitter/follow/saher_pathan?logo=twitter&style=for-the-badge" alt="saher_pathan" /></a> </p>
 
-- 🔭 I’m currently working on [GenUp Nexus](https://github.com/Saherpathan/GenUp_Nexus)
+- 🔭 I’m currently working on ML & Research
 
 - 🌱 I’m currently exploring **Data Analysis**
 
